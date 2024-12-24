@@ -1,0 +1,4 @@
+[submodule "Writer"]
+	path = Writer
+	url = https://github.com/f-ship/Engine.KotlinGen.KSP.Writer
+    branch = main
